@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lawrence 👋</h1>
+<h1 align="center">Hi, I'm Chong 👋</h1>
 
 <p align="center">
   Information Technology student at <b>Mapúa University, Makati</b><br>
