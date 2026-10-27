@@ -27,14 +27,6 @@ I'm working toward a career in cybersecurity, with a focus on SOC analysis.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📂 Featured Projects
-| Project | Description |
-|---|---|
-| [C-CLI-Projects](https://github.com/Chongkers/C-CLI-Projects.) | Command-line programs written in C++ |
-| [Todo-List-MernStack](https://github.com/Chongkers/Todo-List-MernStack) | Full-stack to-do app using MongoDB, Express, React, and Node.js |
-| [Calculator-Web-App](https://github.com/Chongkers/Calculator-Web-App) | Calculator built with HTML, CSS, and JavaScript |
-| [mapuanwallwebsite](https://github.com/Chongkers/mapuanwallwebsite) | Web project for the Mapúan community |
-
 ### 🌱 Currently Learning
 - Network fundamentals and traffic analysis
 - SIEM tools and log analysis for SOC work
